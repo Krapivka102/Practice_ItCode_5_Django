@@ -8,6 +8,8 @@
 ![image](https://github.com/Krapivka102/Practice_ItCode_5_Django/assets/71875993/b61d78de-1c55-4d56-b74f-4557a37f0345)
 ![image](https://github.com/Krapivka102/Practice_ItCode_5_Django/assets/71875993/861ae29b-b6a6-4c33-8911-0c2dc631c185)
 ![image](https://github.com/Krapivka102/Practice_ItCode_5_Django/assets/71875993/53549bcf-d390-4618-8fb2-72c0a1882bf6)
+![image](https://github.com/Krapivka102/Practice_ItCode_5_Django/assets/71875993/98b1cdde-38a3-446c-bd0e-402f22b2bb59)
+![image](https://github.com/Krapivka102/Practice_ItCode_5_Django/assets/71875993/5bef36b4-4413-41d5-b4b5-a69b733ed7b7)
 
 
 
